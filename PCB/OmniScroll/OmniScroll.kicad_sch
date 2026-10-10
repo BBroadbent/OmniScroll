@@ -6605,6 +6605,17 @@
 				)
 			)
 		)
+		(property "Manufacturer_Part_Number" "CRGCQ0603F100K"
+			(at 208.28 40.64 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "9a0df69c-1407-487d-ab18-ecdd028385b9")
 		)
@@ -6687,6 +6698,17 @@
 				)
 			)
 		)
+		(property "Manufacturer_Part_Number" "CRGCQ0603F100K"
+			(at 290.83 46.99 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "3e361204-a71d-405e-b405-612f16193685")
 		)
@@ -6759,6 +6781,17 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 59.69 46.99 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "RC0603FR-075K1P"
 			(at 59.69 46.99 0)
 			(hide yes)
 			(show_name no)
@@ -6862,6 +6895,17 @@
 				)
 			)
 		)
+		(property "Manufacturer_Part_Number" "LTST-C190KRKT"
+			(at 162.56 27.94 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "369a3993-fc8b-4be4-83be-64699b45263a")
 		)
@@ -6934,6 +6978,17 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 290.83 36.83 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "CRGCQ0603F100K"
 			(at 290.83 36.83 0)
 			(hide yes)
 			(show_name no)
@@ -7180,6 +7235,17 @@
 				)
 			)
 		)
+		(property "Manufacturer_Part_Number" "AC0603JR-131KL"
+			(at 307.34 59.69 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "2184830b-3380-42cb-933e-c87a2acf3eaf")
 		)
@@ -7252,6 +7318,17 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 190.5 96.52 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "AC0603JR-131KL"
 			(at 190.5 96.52 0)
 			(hide yes)
 			(show_name no)
@@ -7422,6 +7499,17 @@
 				)
 			)
 		)
+		(property "Manufacturer_Part_Number" "AC0603JR-131KL"
+			(at 227.33 104.14 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "c0f7fc57-a014-49a4-8e26-0ef0702d87cc")
 		)
@@ -7494,6 +7582,17 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 68.58 46.99 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "RC0603FR-075K1P"
 			(at 68.58 46.99 0)
 			(hide yes)
 			(show_name no)
@@ -7653,6 +7752,17 @@
 		)
 		(property "Description" "Resistor"
 			(at 195.58 52.07 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "RMCA0603JT10K0-HP"
+			(at 195.58 52.07 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7899,6 +8009,17 @@
 				)
 			)
 		)
+		(property "Manufacturer_Part_Number" "GRM188R61C105KA12J"
+			(at 240.03 162.56 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "fd9e6c5c-8518-4d72-a363-ac52d94833bb")
 		)
@@ -8062,6 +8183,17 @@
 				)
 			)
 		)
+		(property "Manufacturer_Part_Number" "BSS138"
+			(at 293.37 59.69 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "a9e4b1a3-a7d8-483a-918e-f3ed553292e7")
 		)
@@ -8086,7 +8218,7 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
@@ -8386,6 +8518,17 @@
 				)
 			)
 		)
+		(property "Manufacturer_Part_Number" "GRT188C81C475KE13D"
+			(at 88.9 50.8 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "1f50411d-6acf-470b-8c51-fbb974402185")
 		)
@@ -8536,6 +8679,17 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 242.57 104.14 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "AC0603JR-131KL"
 			(at 242.57 104.14 0)
 			(hide yes)
 			(show_name no)
@@ -8784,6 +8938,17 @@
 				)
 			)
 		)
+		(property "Manufacturer_Part_Number" "AC0603JR-131KL"
+			(at 162.56 50.8 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "592bbb65-599e-4300-92aa-0025eb11bd93")
 		)
@@ -8865,6 +9030,17 @@
 				)
 			)
 		)
+		(property "Manufacturer_Part_Number" "GRM188R61C105KA12J"
+			(at 102.87 163.83 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "ba5c7f3a-72b9-40b6-9087-cf599bed77ee")
 		)
@@ -8887,10 +9063,10 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "5547c869-a480-44a3-82e5-aac98cfc6dc5")
 		(property "Reference" "J2"
@@ -9027,6 +9203,17 @@
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 162.56 60.96 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "LTST-C190GKT"
+			(at 162.56 60.96 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9352,6 +9539,17 @@
 				)
 			)
 		)
+		(property "Manufacturer_Part_Number" "CRGCQ0603F100K"
+			(at 299.72 63.5 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "09754f31-2adb-4757-b2de-8d4c0cb27129")
 		)
@@ -9376,7 +9574,7 @@
 		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "78c7396a-6c27-4b3e-ac44-e772b4c23d88")
 		(property "Reference" "H1"
@@ -9746,6 +9944,17 @@
 				)
 			)
 		)
+		(property "Manufacturer_Part_Number" "MCP73831T-2ACI/OT "
+			(at 116.84 41.91 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "da1de870-97b3-4da7-8001-7ead842b119e")
 		)
@@ -9827,6 +10036,17 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 254 144.78 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "AC0603JR-131KL"
 			(at 254 144.78 0)
 			(hide yes)
 			(show_name no)
@@ -10141,6 +10361,17 @@
 			)
 		)
 		(property "Description" "200-mA Ultra-Low-Iq LDO, 3.3V, SOT-23-5"
+			(at 246.38 45.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "TPS7A0233PDBVR"
 			(at 246.38 45.72 0)
 			(hide yes)
 			(show_name no)
@@ -10476,6 +10707,17 @@
 				)
 			)
 		)
+		(property "Manufacturer_Part_Number" "AC0603JR-131KL"
+			(at 214.63 104.14 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "074511e7-514d-473a-818b-ed4c45fa2739")
 		)
@@ -10500,7 +10742,7 @@
 		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "a7349415-88be-471f-9835-608452931415")
 		(property "Reference" "H3"
@@ -10637,6 +10879,17 @@
 				)
 			)
 		)
+		(property "Manufacturer_Part_Number" "BSS138"
+			(at 205.74 52.07 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "11f5214a-2d6a-4f10-96f1-b5541b08c2c7")
 		)
@@ -10662,10 +10915,10 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "b0128099-f7bd-4647-b374-6a173bdb1b05")
 		(property "Reference" "J3"
@@ -10878,6 +11131,17 @@
 				)
 			)
 		)
+		(property "Manufacturer_Part_Number" "GRM188R61C105KA12J"
+			(at 259.08 50.8 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "7317f4c0-c4dc-42bb-8368-e9b171735a89")
 		)
@@ -11039,6 +11303,17 @@
 				)
 			)
 		)
+		(property "Manufacturer_Part_Number" "DM-01-V"
+			(at 57.15 83.82 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "6867bcab-4cee-4056-9a8c-48f02169deca")
 		)
@@ -11123,6 +11398,17 @@
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 242.57 93.98 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "150060BS75000"
+			(at 242.57 93.98 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11381,6 +11667,17 @@
 				)
 			)
 		)
+		(property "Manufacturer_Part_Number" "LTST-C190KRKT"
+			(at 214.63 93.98 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "48ea74bf-67a4-427b-823e-01ebf03780e5")
 		)
@@ -11463,6 +11760,17 @@
 				)
 			)
 		)
+		(property "Manufacturer_Part_Number" "GRT188C81C475KE13D"
+			(at 139.7 50.8 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "17e991ce-db24-4b77-8e6b-461bd464c106")
 		)
@@ -11484,10 +11792,10 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "c8c82a69-05ec-4b97-9ae5-e8fe07052366")
 		(property "Reference" "J5"
@@ -11700,6 +12008,17 @@
 				)
 			)
 		)
+		(property "Manufacturer_Part_Number" "AC0603JR-131KL"
+			(at 241.3 144.78 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "311ddf57-9119-4616-a7b3-2860a6be1b59")
 		)
@@ -11860,6 +12179,17 @@
 				)
 			)
 		)
+		(property "Manufacturer_Part_Number" "AC0603JR-131KL"
+			(at 162.56 38.1 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "010ea4fa-9725-4815-a2dd-62df18c9154e")
 		)
@@ -11953,6 +12283,17 @@
 				)
 			)
 		)
+		(property "Manufacturer_Part_Number" "LTST-C190KRKT"
+			(at 227.33 93.98 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "d0153d02-9700-40f6-8760-de90dcf6dde4")
 		)
@@ -11977,7 +12318,7 @@
 		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "d89d5238-d5cb-4991-950c-25ed89eb8887")
 		(property "Reference" "H2"
@@ -12101,6 +12442,17 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 99.06 50.8 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "RMCA0603FT20K0-HP"
 			(at 99.06 50.8 0)
 			(hide yes)
 			(show_name no)
@@ -12289,10 +12641,10 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "dfb43668-8769-4407-be86-e580feb291ce")
 		(property "Reference" "J4"
@@ -12560,7 +12912,7 @@
 				(justify bottom)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "TMAG5273C1QDBVR"
 			(at 213.36 151.13 0)
 			(hide yes)
 			(show_name no)
@@ -12725,6 +13077,17 @@
 					(size 1.27 1.27)
 				)
 				(justify bottom)
+			)
+		)
+		(property "Manufacturer_Part_Number" "TMAG5273C1QDBVR"
+			(at 213.36 151.13 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -12896,6 +13259,17 @@
 				)
 			)
 		)
+		(property "Manufacturer_Part_Number" "53048-0210"
+			(at 27.94 83.82 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "b3c20e0d-7907-4cfd-8290-85750fd99f2d")
 		)
@@ -13046,6 +13420,17 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 185.42 144.78 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "AC0603JR-131KL"
 			(at 185.42 144.78 0)
 			(hide yes)
 			(show_name no)
@@ -13214,6 +13599,17 @@
 				)
 			)
 		)
+		(property "Manufacturer_Part_Number" "FCC16201ABTP"
+			(at 43.18 83.82 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "99810465-bb04-45a2-a6e2-78c8954b63dd")
 		)
@@ -13285,6 +13681,17 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 229.87 50.8 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "GRM188R61C105KA12J"
 			(at 229.87 50.8 0)
 			(hide yes)
 			(show_name no)
